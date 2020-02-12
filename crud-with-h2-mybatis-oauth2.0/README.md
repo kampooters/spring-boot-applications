@@ -1,4 +1,4 @@
-# Spring Practises 
+# About the Application
 This project holds the following features
 ##### Features
   * **CRUD operations:**  for Person Model
@@ -149,7 +149,7 @@ PUT /ns/api/v1/person/update (Updates the user on ID bases)
           "hobby": [
             "Book Reading", "Coding", "Chess-1"
           ],
-          id: 1
+          "id": 1,
           "last_name": "Rehman-1"
         }
     ```
@@ -170,7 +170,7 @@ PUT /ns/api/v1/person/update (Updates the user on ID bases)
     * Now you can ```DELETE```, ```GET``` the Person on ```ID``` bases 
 
 * **GET Person** Now click on ```/ns/api/v1/person/get```. It will explain the request inputs and response output
-    * Now provide ```id``` value which you got at the inser time suppose its 1
+    * Now provide ```id``` value which you got at the insert time suppose its 1
     * Provide the access token value (Got from auth-controller, register API) in ```Authorization``` Header
     * Provide the ```ClientId``` Header value (test@gmail.com) value, same which is used for register API
     * Now click the button ```Try it out!```
@@ -238,7 +238,7 @@ We have followed the following architectural and design approaches
 * **Design and Design Patterns:** IOC, Dependency injection, ORM, POJO, DAO, Sigleton, Adapter,Filter, Decorator
 
 
-###Technical Dependencies
+### Technical Dependencies
 The code for this application is written 
 * Java 8
 * Spring Boot

@@ -16,9 +16,15 @@ This project holds the following features
 
 ## Getting Started
 Please follow the instructions to test the functionality
+
 ### Installation
+#### Clone repository
+* clone the git repo through following command
+```git clone https://github.com/kampooters/spring-boot-applications.git```
+
 #### Run from .jar file
-* Go to folder
+* Go to folder ```\spring-boot-applications\crud-with-h2-mybatis-oauth2.0\app\target```
+* There will a jar file ```app-0.0.1-SNAPSHOT.jar```
 * Run the following command
      ```
      java -jar app-0.0.1-SNAPSHOT.jar
@@ -28,12 +34,12 @@ Please follow the instructions to test the functionality
     http://localhost:8080/swagger-ui.html#/
     ```
 #### Build and Run Source code
-* Go to root folder
+* Go to folder ```\spring-boot-applications\crud-with-h2-mybatis-oauth2.0\```
 * Run the following command
      ```
-     mvn clean build
+     mvn clean install
      ```
-* Go to    ```target``` folder
+* Go to folder ```\spring-boot-applications\crud-with-h2-mybatis-oauth2.0\app\target```
 * Run the following command
      ```
      java -jar app-0.0.1-SNAPSHOT.jar
@@ -218,15 +224,11 @@ PUT /ns/api/v1/person/update (Updates the user on ID bases)
 
 
 
-
-
-
-
-
-
-
-
-
+### H2 Database UI Access
+* H2 in-memory database is used 
+* Once the application is started you can access H2 database on following URL ```http://localhost:8080/h2-console```
+* Here are H2 credentials ```sa/password```
+* Once you are connected you can view the tables and data populated
 
 
      

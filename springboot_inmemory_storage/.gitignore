@@ -1,0 +1,8 @@
+
+# pa-analytics related files
+# =============================================================================
+
+target
+bin
+.classpath
+.settings

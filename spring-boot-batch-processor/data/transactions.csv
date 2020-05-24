@@ -1,0 +1,11 @@
+Transaction ID,Customer ID,Customer Name,Bank Name,Transaction Amount,Merchant Name,Merchant Type,Transaction Country,Transaction Type
+79bb2593-0ccd-4ea6-a409-5b2b67fda997,f411d086-85fd-4904-8c33-e32a008abf0a,Jane Doe,Archaic Big Bank,12.2,McDonalds,Fast Food,Germany,CHIP AND PIN
+9bafbebd-d97f-4714-a4a6-021bcc6f61b6,a234509b-88a9-4451-9d92-21d8475e8def,John Smith,Shady Bank,2.5,Starbucks,Fast Food,Latvia,CONTACTLESS
+a11de030-d245-40be-a2db-33ffc50c388d,f411d086-85fd-4904-8c33-e32a008abf0a,Jane Doe,Archaic Big Bank,730,Amazon Shopping,Book Stores,Estonia,ECOM
+90e84d6b-40fb-4185-962e-e12e341d9c38,a234509b-88a9-4451-9d92-21d8475e8def,John Smith,Shady Bank,2.5,Starbucks,Fast Food,Germany,CONTACTLESS
+fdf65a10-f3a5-479a-aef2-6abef133a705,f411d086-85fd-4904-8c33-e32a008abf0a,Jane Doe,Archaic Big Bank,11.99,Netflix,Online Services,France,ECOM
+347b7e04-3eeb-4f88-b48d-4d34a551520c,d3224620-1298-49cc-9c7c-7a29dd2d3f3d,Uvuvwevwevwe ønyetenyevwe,Challenger Bank,289,Waitrose,Supermarket,Spain,CHIP AND PIN
+50b0a99f-6b5d-43fe-9a00-3c454ec107ac,f411d086-85fd-4904-8c33-e32a008abf0a,Jane Doe,Archaic Big Bank,7,Tesco,Supermarket,Portugal,CONTACTLESS
+5289fc0b-0f6b-4cb2-90b7-8206820f96ae,d3224620-1298-49cc-9c7c-7a29dd2d3f3d,Uvuvwevwevwe ønyetenyevwe,Challenger Bank,300,BRITISHAIRWAYS,Airlines,Spain,ECOM
+cfcf3080-d1a4-4747-9ccd-334f343dc759,f411d086-85fd-4904-8c33-e32a008abf0a,Jane Doe,Archaic Big Bank,-7,Tesco,Supermarket,Portugal,CHIP AND PIN
+d3ccbb2d-b6f5-4ec3-92fe-fe3b23d8f1bf,a234509b-88a9-4451-9d92-21d8475e8def,John Smith,Shady Bank,10.5,Pizza Hut,Fast Food,Belgium,CONTACTLESS
